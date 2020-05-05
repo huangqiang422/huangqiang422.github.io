@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://huangqiang422.github.io</id>
     <title>Gridea-huangqiang</title>
-    <updated>2020-05-05T08:36:09.863Z</updated>
+    <updated>2020-05-05T09:26:14.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://huangqiang422.github.io"/>
     <link rel="self" href="https://huangqiang422.github.io/atom.xml"/>
@@ -12,14 +12,16 @@
     <rights>All rights reserved 2020, Gridea-huangqiang</rights>
     <entry>
         <title type="html"><![CDATA[第一篇文章]]></title>
-        <id>https://huangqiang422.github.io/post/di-yi-pian-wen-zhang/</id>
-        <link href="https://huangqiang422.github.io/post/di-yi-pian-wen-zhang/">
+        <id>https://huangqiang422.github.io/post/firstone/</id>
+        <link href="https://huangqiang422.github.io/post/firstone/">
         </link>
         <updated>2020-05-05T07:52:25.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li><code>第一次记录，试试效果，先上一张傻仔图，镇镇场面：</code><br>
-<img src="https://huangqiang422.github.io/post-images/1588665306788.jpg" alt="" loading="lazy"></li>
-</ul>
+        <summary type="html"><![CDATA[<p>第一次写</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>第一次写</p>
+<!-- more -->
+<p>第一次记录，试试效果，先上一张傻仔图，镇镇场面：<br>
+<img src="https://huangqiang422.github.io/post-images/1588665306788.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
